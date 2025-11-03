@@ -1,0 +1,35 @@
+<?xml version ="1.0" encoding= "UTF-8"?>
+<xsd:schema xmlns:xsd= "http://www.w3.org/2002/XMLSchema">
+    <xsd:element name="Hotels">
+        <xsd:complexType>
+            <xsd:sequence>
+                <!-- For each hotel, they will have the following below -->
+                <xsd:element name="Hotel" maxOccurs="unbounded" minOccurs="1">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="Name" type="xsd:string"/>
+                            <xsd:element name="Phone" type= "xsd:string" maxOccurs="unbounded"/>
+                            <xsd:element name="Address">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="Number" type="xsd:string"/>
+                                        <xsd:element name="Street" type= "xsd:string"/>
+                                        <xsd:element name="City" type= "xsd:string"/>
+                                        <xsd:element name="State" type= "xsd:string"/>
+                                        <xsd:element name="Zip" type= "xsd:string"/>
+
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <!-- Optional attribute -->
+                            <xsd:element name="Rating" type="xsd:decimal" minOccurs="0"/>
+                            <!-- Required attribute-->
+                            <xsd:element name="NearestAiport" type="xsd:string"/>
+
+                        </xsd:sequence>
+                    </xsd:complexType>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element name="Hotel">
+</xsd:schema>

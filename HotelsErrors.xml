@@ -1,0 +1,193 @@
+<Hotel>
+<!-- Hotel No.1 -->
+    <Hotel>
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+        <Rating>4.2</Rating>
+        <NearestAirport>Sky Harbor</NearestAirport>
+    </Hotel>
+
+
+
+<!-- Hotel No.2 -->
+
+    <Hotel>
+        <Name> Sky Ranch Lodge </Name>
+        <Phone> 928-282-6400</Phone>
+        <Address>
+            <Number>1105</Number>
+            <Street>Airport Road</Street>
+            <City>Sedona</City>
+            <State>AZ</State>
+            <Zip>86336</Zip> 
+        </Address>
+        <Rating>4.5</Rating>
+        <NearestAiport>Flagstaff Pulliam Airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.3 -->
+
+    <Hotel>
+        <Name>Enchantment</Name>
+        <Phone>928-282-2900</Phone>
+        <Address>
+            <Number>525</Number>
+            <Street>Boynton Canyon Rd</Street>
+            <City>Sedona</City>
+            <State>AZ</State>
+            <Zip>86336</Zip> 
+        </Address>
+        <Rating>4.5</Rating>
+
+        <NearestAiport>Flagstaff Pulliam Airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.4 -->
+
+    <Hotel>
+        <Name>Hampton Inn & Suites</Name>
+        <Phone>210-226-7777</Phone>
+        <Address>
+            <Number>118</Number>
+            <Street>Soledad Street</Street>
+            <City>San Antonio</City>
+            <State>TX</State>
+            <Zip>78205</Zip> 
+        </Address>
+        <Rating> </Rating>
+        <NearestAiport>San Antonio International Airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.5 -->
+
+    <Hotel>
+        <Name>Canopy by Hilton</Name>
+        <Phone></Phone>
+        <Address>
+            <Number>123</Number>
+            <Street>N. Saint Marys St</Street>
+            <City>San Antonio</City>
+            <State>TX</State>
+            <Zip>78205</Zip> 
+        <Rating> </Rating>
+        <NearestAiport>San Antonio International Airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.6 -->
+
+    <Hotel>
+        <Name>theWit Chicago</Name>
+        <Phone>312-467-0200</Phone>
+        <Address>
+            <Number>201</Number>
+            <Street>N. State Street</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60601</Zip> 
+        </Address>
+        <Rating>4.7</Rating>
+        <NearestAiport>Chicago Midway airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.7 -->
+
+    <Hotel>
+        <Name>Waldorf Astoria Chicago</Name>
+        <Phone>312-646-1300</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E Walton</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60611</Zip> 
+        </Address>
+        <Rating>4.7</Rating>
+        <NearestAiport>Chicago Midway Airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.8 -->
+
+    <Hotel>
+        <Name>The Barnes</Name>
+        <Phone>415-397-7700</Phone>
+        <Address>
+            <Number>225</Number>
+            <Street>Powell St</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip> 94102</Zip> 
+        </Address>
+        <Rating>4.2</Rating>
+
+        <NearestAiport></NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.9 -->
+
+    <Hotel>
+        <Name>Timbri Hotel</Name>
+        <Name>Old Age Hotel</Name>
+        <Phone>415-475-0000</Phone>
+        <Address>
+            <Number>33</Number>
+            <Street>Turk St</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94102</Zip> 
+        </Address>
+        <Rating>4.1</Rating>
+
+        <NearestAiport>San Francisco International Airport</NearestAiport>
+    </Hotel>
+
+
+<!-- Hotel No.10 -->
+
+    <Hotel>
+        <Name>Hampton Inn</Name>
+        <Phone>202-296-1006</Phone>
+        <Address>
+            <Number>1729</Number>
+            <Street>H Street NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip>20006</Zip> 
+        </Address>
+        <Rating>4.5</Rating>
+
+        <NearestAiport>Washington National Airport</NearestAiport>
+    </Hotel>
+
+
+
+<!-- Hotel No.11 -->
+
+    <Hotel>
+        <Name>Waldorf Astoria Washington DC</Name>
+        <Phone>202-695-1100</Phone>
+        <Address>
+            <Number>1100</Number>
+            <Street>Pennsylvania Ave NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip>20004</Zip> 
+        </Address>
+        <Rating>4.8</Rating>
+        <NearestAiport>Washington National Airport</NearestAiport>
+    </Hotel>
+</Hotel>
