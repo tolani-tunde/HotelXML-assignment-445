@@ -32,5 +32,5 @@
                 </xsd:element>
             </xsd:sequence>
         </xsd:complexType>
-    </xsd:element name="Hotel">
+    </xsd:element name="Hotels">
 </xsd:schema>
